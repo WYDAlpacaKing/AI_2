@@ -1,4 +1,3 @@
-using System;
 using System.Linq;
 using UnityEngine;
 using AlanZucconi.Pacman;
@@ -122,7 +121,7 @@ namespace Pacman.ywang146
         }
 
         /// <summary>Closest ghost matching the predicate (null if none).</summary>
-        private Ghost NearestGhost(Func<Ghost, bool> predicate)
+        private Ghost NearestGhost(System.Func<Ghost, bool> predicate)
         {
             return Game.Ghosts
                 .Where(predicate)
