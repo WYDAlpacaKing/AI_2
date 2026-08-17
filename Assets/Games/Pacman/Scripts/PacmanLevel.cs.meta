@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ba36ed71346fe6b4984a14e10fdd02ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Game: {instanceID: 0}
+  - Tilemap: {instanceID: 0}
+  - EmptyTile: {instanceID: 0}
+  - WallTile: {instanceID: 0}
+  - PelletTile: {instanceID: 0}
+  - PowerPelletTile: {instanceID: 0}
+  - GhostTile: {instanceID: 0}
+  - PlayerTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6da890bb6645149b27c32fdc0a387d, type: 3}
+  m_Name: GhostAI_Inky
+  m_EditorClassIdentifier: 
+  StudentLogin: azucc002
+  StudentName: Alan Zucconi
+  StudentEmail: a.zucconi@gold.ac.uk
+  Game: {fileID: 0}
+  Agent: {fileID: 0}
+  State: 0
+  Target: {x: 16, y: 10}
+  CurrentDirection: 4
+  GhostHousePosition: {x: 14, y: 19}
+  ScatterTarget: {x: 27, y: 0}
+  FrightenedColor: {r: 0, g: 0, b: 1, a: 1}
+  Timers:
+    LoopTime: 1
